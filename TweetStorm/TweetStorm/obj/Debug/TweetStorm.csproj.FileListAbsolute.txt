@@ -1,0 +1,6 @@
+C:\Projects\TweetStorm\TweetStorm\bin\Debug\TweetStorm.exe.config
+C:\Projects\TweetStorm\TweetStorm\bin\Debug\TweetStorm.exe
+C:\Projects\TweetStorm\TweetStorm\bin\Debug\TweetStorm.pdb
+C:\Projects\TweetStorm\TweetStorm\obj\Debug\TweetStorm.csprojResolveAssemblyReference.cache
+C:\Projects\TweetStorm\TweetStorm\obj\Debug\TweetStorm.exe
+C:\Projects\TweetStorm\TweetStorm\obj\Debug\TweetStorm.pdb
